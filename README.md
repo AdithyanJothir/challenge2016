@@ -52,8 +52,8 @@ This command-line tool, written in Go, allows you to manage distributors and the
 1.  **Build the Program:**
 
 ```bash
-cd main
-go build ./main
+cd cmd
+go build main
 ```
 
 1.  **Run the Program:**
